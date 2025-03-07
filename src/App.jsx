@@ -1,5 +1,4 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import "./App.css";
 import Navbar from "./components/shared/NavBar";
 import Body from "./components/Body";
 import Inbox from "./components/Inbox";
